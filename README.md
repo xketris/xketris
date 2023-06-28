@@ -1,14 +1,10 @@
 <h1 align="center">Hi there 👋</h1>
 
--------------------
 &emsp;
 <h3 align="left">Hi 🙋‍♂️, I'm Szymon Skalmierski, passionate Front-end Developer. I have fun coding web apps, working hard to be better at it.</h3>
-&emsp;
--------------------
 
 &emsp;
 ## 🛠️ My Stack
--------------------
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)

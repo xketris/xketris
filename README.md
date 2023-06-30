@@ -18,6 +18,7 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Angular Material](https://img.shields.io/badge/-Angular%20Material-000?&logo=Angular)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 
 ### Misc tools:
 &emsp;

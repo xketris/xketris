@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 &emsp;
-<h3 align="left">Hi 🙋‍♂️, I'm Szymon Skalmierski, passionate Front-end Developer. I have fun coding web apps, working hard to be better at it.</h3>
+<h3 align="left">Hi 🙋‍♂️, I'm Szymon, passionate Front-end Developer. I have fun coding web apps, working hard to be better at it.</h3>
 
 &emsp;
 ## 🛠️ My Stack

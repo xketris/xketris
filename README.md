@@ -25,6 +25,8 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
+![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
+![ESLint](https://img.shields.io/badge/-ESLint-000?&logo=ESLint)
 
 ### Databases:
 &emsp;

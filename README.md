@@ -31,6 +31,8 @@
 ### Databases:
 &emsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
 
 &emsp;
 

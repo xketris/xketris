@@ -30,11 +30,12 @@
 ![Prettier](https://img.shields.io/badge/-Prettier-000?&logo=Prettier)
 ![ESLint](https://img.shields.io/badge/-ESLint-000?&logo=ESLint)
 
-### Databases:
+### Database and Cloud:
 &emsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
 ![Supabase](https://img.shields.io/badge/-Supabase-000?&logo=Supabase)
+![Vercel](https://img.shields.io/badge/-Vercel-000?logo=vercel)
 
 &emsp;
 

@@ -20,6 +20,7 @@
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
 ![Angular Material](https://img.shields.io/badge/-Angular%20Material-000?&logo=Angular)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 ### Misc tools:
 &emsp;

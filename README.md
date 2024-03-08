@@ -49,6 +49,6 @@
 
 <img alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szymon-skalmierski&langs_count=8&layout=compact&theme=aura_dark" height="200px"/>
 
-### 🔥 Streak Stats
+### 🔥 Contributions Stats
 
 ![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=szymon-skalmierski&theme=aura_dark)

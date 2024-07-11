@@ -39,7 +39,6 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 &emsp;
-
 ## 📊 GitHub Stats and Activity
 
 ### 👨‍💻 Profile Stats
@@ -49,3 +48,10 @@
 ### 🔥 Contributions Stats
 
 ![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=szymon-skalmierski&theme=aura_dark)
+
+&emsp;
+## ⭐ Projects
+
+### &#9813; Astrochess
+### &#9856; Web Pokédex
+### &#9993; Chattiez

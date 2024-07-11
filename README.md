@@ -52,6 +52,6 @@
 &emsp;
 ## ⭐ Projects
 
-### &#9813; Astrochess
-### &#9856; Web Pokédex
-### &#9993; Chattiez
+- ♕ Astrochess
+- 🎴 Web Pokédex
+- 💬 Chattiez

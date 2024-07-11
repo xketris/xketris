@@ -6,7 +6,6 @@
 &emsp;
 ## 🛠️ My Stack
 ### Programming languages:
-&emsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -14,7 +13,6 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frontend development:
-&emsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -25,7 +23,6 @@
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 ### Misc tools:
-&emsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -34,7 +31,6 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
 ### Database and Cloud:
-&emsp;
 ![SQL](https://img.shields.io/badge/sql-%23DB7533.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB3aWR0aD0iNDguOTYxMTI0bW0iCiAgIGhlaWdodD0iNjIuMTkwODk5bW0iCiAgIHZpZXdCb3g9IjAgMCA0OC45NjExMjQgNjIuMTkwODk5IgogICB2ZXJzaW9uPSIxLjEiCiAgIGlkPSJzdmcxIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzCiAgICAgaWQ9ImRlZnMxIiAvPgogIDxnCiAgICAgaWQ9ImxheWVyMSIKICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtOTguMTYwNDE4LC00MS4wMTA0MTcpIj4KICAgIDxlbGxpcHNlCiAgICAgICBjeD0iMTIyLjYzNDM4IgogICAgICAgY3k9IjUyLjI1NTIwNyIKICAgICAgIHJ5PSI5LjI2MDQxNyIKICAgICAgIHJ4PSIyMi40ODk1ODQiCiAgICAgICBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTojZmZmZmZmO3N0cm9rZS13aWR0aDozLjk2ODc1O3N0cm9rZS1vcGFjaXR5OjEiCiAgICAgICBpZD0iZWxsaXBzZTEiIC8+CiAgICA8cGF0aAogICAgICAgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6I2ZmZmZmZjtzdHJva2Utd2lkdGg6My45Njg3NTtzdHJva2Utb3BhY2l0eToxIgogICAgICAgZD0ibSAxMDAuMTQ0NzksNTIuMjU1MjA4IHYgMzkuNjg3NSBhIDIyLjUwNjM1NCw5LjI2NzMyMjkgMSAxIDAgNDQuOTc5MTcsMCB2IC0zOS42ODc1IG0gLTQ0Ljk3OTE3LDEzLjIyOTE2NyBhIDIyLjUwNjM1NCw5LjI2NzMyMjkgMSAxIDAgNDQuOTc5MTcsMCBtIC00NC45NzkxNywxMy4yMjkxNjYgYSAyMi41MDYzNTQsOS4yNjczMjI5IDEgMSAwIDQ0Ljk3OTE3LDAiCiAgICAgICBpZD0icGF0aDEiIC8+CiAgPC9nPgo8L3N2Zz4K)
 ![MySQL](https://img.shields.io/badge/mysql-%23000.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)

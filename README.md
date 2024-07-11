@@ -51,6 +51,6 @@
 
 &emsp;
 ## ⭐ Projects
-- ♕[Astrochess](https://github.com/AstroChess/AstroChessApp)
-- 🎴[Web Pokédex](https://github.com/szymon-skalmierski/web-pokedex)
-- 💬[Chattiez](https://github.com/szymon-skalmierski/angular-chat)
+- <a href="https://github.com/AstroChess/AstroChessApp" style="color: white, text-decoration: none">♕ Astrochess</a>
+- <a href="https://github.com/szymon-skalmierski/web-pokedex" style="color: white, text-decoration: none">🎴 Web Pokédex</a>
+- <a href="https://github.com/szymon-skalmierski/angular-chat" style="color: white, text-decoration: none">💬 Chattiez</a>

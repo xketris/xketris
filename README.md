@@ -55,6 +55,10 @@
 
 &emsp;
 ## ⭐ Projects
+<img src="https://raw.githubusercontent.com/szymon-skalmierski/szymon-skalmierski/main/assets/img/chattiez.png" width="45%"></img> 
+<img src="https://raw.githubusercontent.com/szymon-skalmierski/szymon-skalmierski/main/assets/img/webpokedex.png" width="45%"></img>
+<img src="https://raw.githubusercontent.com/szymon-skalmierski/szymon-skalmierski/main/assets/img/webpokedex.png" width="45%"></img> 
+
 - ♕ Astrochess
 - 🎴 WebPokédex
 - 💬 Chattiez

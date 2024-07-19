@@ -55,7 +55,7 @@
 
 &emsp;
 ## ⭐ Projects
-<a href="https://github.com/AstroChess/AstroChessApp"><img src="/assets/img/astrochess.png" width="30%"></img></a>
-<a href="https://github.com/szymon-skalmierski/chattiez"><img src="/assets/img/chattiez.png" width="30%"></img></a>
-<a href="https://github.com/szymon-skalmierski/web-pokedex"><img src="/assets/img/webpokedex.png" width="30%"></img></a>
+<a href="https://github.com/AstroChess/AstroChessApp"><img src="/assets/img/astrochess.png" width="32%"></img></a>
+<a href="https://github.com/szymon-skalmierski/chattiez"><img src="/assets/img/chattiez.png" width="32%"></img></a>
+<a href="https://github.com/szymon-skalmierski/web-pokedex"><img src="/assets/img/webpokedex.png" width="32%"></img></a>
 

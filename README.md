@@ -55,9 +55,9 @@
 
 &emsp;
 ## ⭐ Projects
-<a href="https://github.com/szymon-skalmierski/chattiez"><img src="https://raw.githubusercontent.com/szymon-skalmierski/szymon-skalmierski/main/assets/img/chattiez.png" width="30%"></img></a>
-<a href="https://github.com/szymon-skalmierski/web-pokedex"><img src="https://raw.githubusercontent.com/szymon-skalmierski/szymon-skalmierski/main/assets/img/webpokedex.png" width="30%"></img></a>
-<a href="https://github.com/AstroChess/AstroChessApp"><img src="https://raw.githubusercontent.com/szymon-skalmierski/szymon-skalmierski/main/assets/img/astrochess.png" width="30%"></img></a>
+<a href="/assets/img/chattiez.png"><img src="https://raw.githubusercontent.com/szymon-skalmierski/szymon-skalmierski/main/assets/img/chattiez.png" width="30%"></img></a>
+<a href="/assets/img/webpokedex.png"><img src="https://raw.githubusercontent.com/szymon-skalmierski/szymon-skalmierski/main/assets/img/webpokedex.png" width="30%"></img></a>
+<a href="/assets/img/astrochess.png"><img src="https://raw.githubusercontent.com/szymon-skalmierski/szymon-skalmierski/main/assets/img/astrochess.png" width="30%"></img></a>
 
 - ♕ Astrochess
 - 🎴 WebPokédex

@@ -54,7 +54,7 @@
 
 ### 🔥 Contributions Stats
 
-![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=szymon-skalmierski&theme=aura_dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=szymon-skalmierski&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 &emsp;
 ## ⭐ Projects

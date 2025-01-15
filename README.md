@@ -49,10 +49,10 @@
 ## 📊 GitHub Stats and Activity
 
 <div style="display: grid; grid-template-columns: auto auto">
-  <div style="width: 45%">
+  <div style="width: 450px">
     <img alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szymon-skalmierski&langs_count=8&layout=compact&theme=aura_dark" height="200px"/>
   </div>
-  <div style="width: 45%">
+  <div style="width: 450px">
     <img alt="Activity" src="https://github-readme-stats.vercel.app/api?username=szymon-skalmierski&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="200px"/>
   </div>
 </div>

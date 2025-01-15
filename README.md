@@ -48,7 +48,7 @@
 &emsp;
 ## 📊 GitHub Stats and Activity
 
-<div style="columns: 2">
+<div style="display: grid; grid-template-columns: auto auto">
   <div style="width: 45%">
     <img alt="My Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=szymon-skalmierski&langs_count=8&layout=compact&theme=aura_dark" height="200px"/>
   </div>

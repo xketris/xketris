@@ -12,6 +12,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%236000C0.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3OTAiIGhlaWdodD0iNzkwIiB2aWV3Qm94PSIwIDAgNzkwIDc5MCI+PHBhdGggZmlsbD0iIzUxMmJkNCIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJtMzk1IDM2LTM3LjIwMyAyMS40NzlMODQuMDk3IDIxNS41djM1OUwzOTUgNzU0bDMxMC45MDMtMTc5LjV2LTM1OUw0MzUuMzk1IDU5LjMyMnoiLz48cGF0aCBmaWxsPSIjZmZmIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zOTcuMjUyIDYxOGMtMTIyLjg4MyAwLTIyMi41LTk5LjYxNy0yMjIuNS0yMjIuNVMyNzQuMzY5IDE3MyAzOTcuMjUyIDE3M2M4Mi4yMjQgMCAxNTQuNjc5IDQ1LjczIDE5My4xOTcgMTEyLjA2M2wtODguMDU2IDUwLjg3Yy0yMC43NTEtMzcuMDk0LTU5LjYxNC02MS43NTEtMTA1LjE0MS02MS43NTEtNjcuMDAyIDAtMTIxLjMxNiA1NC4zMTYtMTIxLjMxNiAxMjEuMzE4czU0LjMxNCAxMjEuMzE4IDEyMS4zMTYgMTIxLjMxOGM0NS4yMjggMCA4NC42NzUtMjQuNzUyIDEwNS41MzctNjEuNDQ3bDg3Ljk0MyA1MC4wNzRDNTUyLjQ1IDU3Mi42NyA0ODAuMTQ1IDYxOCAzOTcuMjUyIDYxOCIvPjx0ZXh0IHhtbDpzcGFjZT0icHJlc2VydmUiIHg9IjUzMi40MTMzMyIgeT0iNDQ3IiBmaWxsPSIjZmZmIiBmb250LWZhbWlseT0iT3BlbiBTYW5zIiBmb250LXNpemU9IjE2OSIgZm9udC13ZWlnaHQ9IjcwMCI+IzwvdGV4dD48L3N2Zz4=)
 
 ### Frontend development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

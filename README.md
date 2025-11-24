@@ -11,11 +11,11 @@ I'm **Szymon**, passionate web developer. I have fun coding apps and work hard t
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 
 ### Frontend development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
+![CSS](https://img.shields.io/badge/CSS-639?style=for-the-badge&logo=css&logoColor=fff)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -58,8 +58,8 @@ I'm **Szymon**, passionate web developer. I have fun coding apps and work hard t
 
 ## ⭐ Projects
 
-[![AstroChess](/assets/img/astrochess.png)](https://github.com/AstroChess/AstroChessApp)
-[![Chattiez](/assets/img/chattiez.png)](https://github.com/szymon-skalmierski/chattiez)
-[![Web Pokedex](/assets/img/webpokedex.png)](https://github.com/szymon-skalmierski/web-pokedex)
+<a href="https://github.com/AstroChess/AstroChessApp"><img src="/assets/img/astrochess.png" width="32%"></img></a>
+<a href="https://github.com/szymon-skalmierski/chattiez"><img src="/assets/img/chattiez.png" width="32%"></img></a>
+<a href="https://github.com/szymon-skalmierski/web-pokedex"><img src="/assets/img/webpokedex.png" width="32%"></img></a>
 
 ---
